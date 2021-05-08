@@ -1,0 +1,11 @@
+Game Description: 
+
+   The 24-point game will display four cards randomly selected from 52 cards deck. Each card represents
+ a number. An Ace, King, Queen, and Jack represent 1, 13, 12, and 11, respectively. The user MUST enter an 
+ expression that uses the four numbers from the four displayed cards. Each number must be used once 
+ and only once. To create the expression, You can use the operators (addition (+), subtraction (-), multiplication(*),
+ and division(/)) and parentheses() in the expression. The expression must evaluate to 24. After entering the 
+ expression, click the Verify button to check whether the numbers in the expression are currently selected 
+ and whether the result of the expression is correct. You MUST click the VERIFY button, to check if your 
+ answer is correct. The expression might not exist. In this case, click the Refresh button to get another 
+ set of four cards. 
